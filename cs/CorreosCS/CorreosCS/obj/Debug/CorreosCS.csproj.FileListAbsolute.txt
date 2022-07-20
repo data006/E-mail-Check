@@ -1,0 +1,9 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\cs\CorreosCS\CorreosCS\bin\Debug\CorreosCS.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\cs\CorreosCS\CorreosCS\bin\Debug\CorreosCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\cs\CorreosCS\CorreosCS\bin\Debug\CorreosCS.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\cs\CorreosCS\CorreosCS\obj\Debug\CorreosCS.csprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\cs\CorreosCS\CorreosCS\obj\Debug\CorreosCS.Form1.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\cs\CorreosCS\CorreosCS\obj\Debug\CorreosCS.Properties.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\cs\CorreosCS\CorreosCS\obj\Debug\CorreosCS.csproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\cs\CorreosCS\CorreosCS\obj\Debug\CorreosCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\cs\CorreosCS\CorreosCS\obj\Debug\CorreosCS.pdb

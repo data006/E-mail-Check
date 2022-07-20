@@ -1,0 +1,11 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\vb\CorreoVB\CorreoVB\bin\Debug\CorreoVB.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\vb\CorreoVB\CorreoVB\bin\Debug\CorreoVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\vb\CorreoVB\CorreoVB\bin\Debug\CorreoVB.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\vb\CorreoVB\CorreoVB\bin\Debug\CorreoVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\vb\CorreoVB\CorreoVB\obj\Debug\CorreoVB.vbprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\vb\CorreoVB\CorreoVB\obj\Debug\CorreoVB.frmCorreoVB.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\vb\CorreoVB\CorreoVB\obj\Debug\CorreoVB.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\vb\CorreoVB\CorreoVB\obj\Debug\CorreoVB.vbproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\vb\CorreoVB\CorreoVB\obj\Debug\CorreoVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\vb\CorreoVB\CorreoVB\obj\Debug\CorreoVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\8\vb\CorreoVB\CorreoVB\obj\Debug\CorreoVB.pdb
